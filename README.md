@@ -10,7 +10,7 @@ Hello, I introduce myself, my name is Luca D'Ambrosio, I am twentyone years old 
 
 * 🌍  I'm based in Pescara
 * ✉️  You can contact me at [luca2001dambro@gmail.com](mailto:luca2001dambro@gmail.com)
-* 🚀  I'm currently working on ODOOO
+* 🚀  I'm currently working on ODOO
 * 🧠  I'm learning Javascript,Docker
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
