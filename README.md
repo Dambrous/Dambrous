@@ -1,7 +1,7 @@
 Hi 👋 My name is Luca D'Ambrosio
 ================================
 
-Web Developer At Rapsodoo
+Software Engineer At Rapsodoo
 -------------------------
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
