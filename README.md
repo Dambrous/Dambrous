@@ -1,6 +1,3 @@
-Hi 👋 My name is Luca D'Ambrosio
-================================
-
 Software Engineer At Rapsodoo
 -------------------------
 * ✉️ <a href="https://www.lucadambrosio.cloud/">lucadambrosio.cloud</a>
