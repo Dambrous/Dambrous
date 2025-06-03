@@ -1,4 +1,4 @@
-Software Engineer At Rapsodoo
+Software Engineer
 -------------------------
 * ✉️ <a href="https://www.lucadambrosio.cloud/"> lucadambrosio.cloud</a>
 * 🚀  I'm currently working on Odoo
